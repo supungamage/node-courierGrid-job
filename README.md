@@ -1,4 +1,4 @@
-# node-courierGrid-job
+# Dockerized node-courierGrid-job
 
 ## courierGrid-job is a microservice written in nodeJS and mongodb
 ## Both node courierGrid-job and mongodb run on dockerized environments.
